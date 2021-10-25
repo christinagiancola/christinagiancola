@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Christina</h1>
-<h3 align="center">A self-taught frontend developer currently living in Richmond, Virginia</h3>
+<h1 align="center">Christina Giancola</h1>
+<h3 align="center">is a self-taught frontend developer currently living in Richmond, Virginia</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
