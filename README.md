@@ -1,4 +1,4 @@
-### hi there, my name is christina and i am: 
+## hi there, my name is christina and i am: 
 
 💻  a frontend developer
 
