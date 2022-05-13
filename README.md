@@ -1,12 +1,12 @@
 ## hi there, my name is christina and i am: 
 
-💻  a frontend developer
+#### 💻 a frontend developer
 
-🎓  self taught utilizing project-based learning
+#### 🎓  self taught utilizing project-based learning
 
-🎨  transitioning to tech from an art background that fostered my sense of creativity, commitment to craftsmanship, and self-direction
+#### 🎨  transitioning to tech from an art background that fostered my sense of creativity, commitment to craftsmanship, and self-direction
 
-💭  especially interested in accessibility and data visualization 
+#### 💭  especially interested in accessibility and data visualization 
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
