@@ -1,6 +1,6 @@
 ## hi there, my name is christina and i am: 
 
-💻 a frontend developer
+💻 a frontend focused software developer
 
 🎓  self taught utilizing project-based learning
 
